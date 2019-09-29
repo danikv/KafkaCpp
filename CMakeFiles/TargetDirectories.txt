@@ -1,0 +1,4 @@
+/home/danielk/repos/KafkaCpp/CMakeFiles/rebuild_cache.dir
+/home/danielk/repos/KafkaCpp/CMakeFiles/edit_cache.dir
+/home/danielk/repos/KafkaCpp/CMakeFiles/kafkacpp.dir
+/home/danielk/repos/KafkaCpp/CMakeFiles/Kafka.dir

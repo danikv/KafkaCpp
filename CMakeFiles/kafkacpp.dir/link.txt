@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkafkacpp.a  CMakeFiles/kafkacpp.dir/src/KafkaConsumer.cpp.o CMakeFiles/kafkacpp.dir/src/Events.cpp.o
+/usr/bin/ranlib libkafkacpp.a

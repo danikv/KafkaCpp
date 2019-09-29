@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Kafka.dir/main/consumer_main.cpp.o  -o Kafka libkafkacpp.a -Wl,-Bstatic -lrdkafka -lrdkafka++ -Wl,-Bdynamic -lrdkafka -lrdkafka++ -lpthread 

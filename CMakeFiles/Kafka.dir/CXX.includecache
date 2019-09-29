@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danielk/repos/KafkaCpp/main/consumer_main.cpp
+KafkaConsumer.h
+/home/danielk/repos/KafkaCpp/main/KafkaConsumer.h
+iostream
+-
+
+include/KafkaConsumer.h
+librdkafka/rdkafkacpp.h
+-
+memory
+-
+
